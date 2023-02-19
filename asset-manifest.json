@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-pages-test/static/css/main.073c9b0a.css",
-    "main.js": "/github-pages-test/static/js/main.d35d37d3.js",
-    "static/js/787.275e4d8a.chunk.js": "/github-pages-test/static/js/787.275e4d8a.chunk.js",
-    "static/media/logo.svg": "/github-pages-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/github-pages-test/static/css/main.cbb738c1.css",
+    "main.js": "/github-pages-test/static/js/main.81dcff91.js",
+    "static/media/pexels-karolina-grabowska-4021872.jpg": "/github-pages-test/static/media/pexels-karolina-grabowska-4021872.f78a1ceb0cc5123ea946.jpg",
+    "static/media/Anna1.jpg": "/github-pages-test/static/media/Anna1.ff07b879ab6cdd615d0d.jpg",
+    "static/media/CocktailLogo.svg": "/github-pages-test/static/media/CocktailLogo.77ab98ac79f044ae807309de70d029f3.svg",
     "index.html": "/github-pages-test/index.html",
-    "main.073c9b0a.css.map": "/github-pages-test/static/css/main.073c9b0a.css.map",
-    "main.d35d37d3.js.map": "/github-pages-test/static/js/main.d35d37d3.js.map",
-    "787.275e4d8a.chunk.js.map": "/github-pages-test/static/js/787.275e4d8a.chunk.js.map"
+    "main.cbb738c1.css.map": "/github-pages-test/static/css/main.cbb738c1.css.map",
+    "main.81dcff91.js.map": "/github-pages-test/static/js/main.81dcff91.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d35d37d3.js"
+    "static/css/main.cbb738c1.css",
+    "static/js/main.81dcff91.js"
   ]
 }
